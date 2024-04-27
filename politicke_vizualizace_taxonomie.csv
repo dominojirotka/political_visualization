@@ -1,0 +1,491 @@
+﻿Pořadové číslo;Politický subjekt;Datum publikování;Datum sběru;Odkaz na zdroj;Typ vizualizace;Manipulace osou;;;Porušení konvence;;Chybějící prvky;;;;Přebývající a zmatečné prvky;;
+;;;;;;Podseknutá osa;Dvojitá osa;Převrácená osa;Nevhodné řazení;Nevhodné barvy;Chybějící osa či její popis;Neuvedení zdroje;Chybějící název (téma);Absence legendy;3D efekt;Nevhodná vizualizace;Zmatečná vizualizace
+1;ODS;05.02.2023;20.02.2023;https://www.facebook.com/ods.cz/photos/10160632249457700;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+2;ODS;08.12.2022;20.02.2023;https://www.facebook.com/ods.cz/photos/10160511749742700;Sloupcový;N;N;N;N;N;Y;Y;Y;N;N;N;N
+3;ODS;16.11.2022;20.02.2023;https://www.facebook.com/ods.cz/photos/10160436337522700 ;Sloupcový;N;N;N;N;N;Y;Y;Y;N;N;N;N
+4;ODS;13.11.2022;20.02.2023;https://www.facebook.com/ods.cz/photos/10160428153817700 ;Sloupcový;N;N;N;N;N;Y;Y;Y;N;N;N;N
+5;ODS;25.10.2022;20.02.2023;https://www.facebook.com/ods.cz/photos/10160365979662700 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+6;ODS;24.10.2022;20.02.2023;https://www.facebook.com/ods.cz/photos/10160363476017700 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+7;ODS;20.09.2022;20.02.2023;https://www.facebook.com/ods.cz/photos/10160295023142700 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;Y;N
+8;ODS;19.09.2022;20.02.2023;https://www.facebook.com/ods.cz/photos/10160293263027700 ;Jiný;X;X;X;N;N;Y;Y;N;Y;N;Y;Y
+9;ODS;16.09.2022;20.02.2023;https://www.facebook.com/ods.cz/photos/10160283456952700 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+10;ODS;14.09.2022;20.02.2023;https://www.facebook.com/ods.cz/photos/10160279656267700 ;Sloupcový;N;N;N;N;N;Y;Y;N;Y;N;N;N
+11;ODS;13.09.2022;20.02.2023;https://www.facebook.com/ods.cz/photos/10160278949297700 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+12;ODS;25.08.2022;20.02.2023;https://www.facebook.com/ods.cz/photos/10160246230322700 ;Sloupcový;N;Y;N;N;N;N;N;N;Y;N;N;N
+13;ODS;17.08.2022;20.02.2023;https://www.facebook.com/ods.cz/photos/10160233440107700 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+14;ODS;22.07.2022;20.02.2023;https://www.facebook.com/ods.cz/photos/10160196571582700 ;Sloupcový;M;N;N;N;N;Y;Y;N;Y;N;N;Y
+15;ODS;08.05.2022;20.02.2023;https://www.facebook.com/ods.cz/photos/10160069042637700 ;Sloupcový;N;N;N;N;N;Y;N;Y;N;N;N;N
+16;ODS;25.04.2022;20.02.2023;https://www.facebook.com/ods.cz/photos/10160045868987700 ;Sloupcový;N;N;N;N;N;N;Y;N;N;N;N;N
+17;ODS;10.04.2022;20.02.2023;https://www.facebook.com/ods.cz/photos/10160020700712700 ;Sloupcový;N;N;N;N;N;Y;N;Y;N;N;N;N
+18;ODS;13.03.2022;20.02.2023;https://www.facebook.com/ods.cz/photos/10159974634142700 ;Sloupcový;N;N;N;N;N;Y;N;Y;N;N;N;N
+19;ODS;10.03.2022;20.02.2023;https://www.facebook.com/ods.cz/photos/10159969405887700 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+20;ODS;09.02.2022;20.02.2023;https://www.facebook.com/ods.cz/photos/10159920366162700;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+21;ODS;05.10.2021;20.02.2023;https://www.facebook.com/ods.cz/photos/10159691869382700 ;Sloupcový;N;N;N;N;N;Y;N;Y;N;N;N;N
+22;ODS;05.10.2021;20.02.2023;https://www.facebook.com/ods.cz/photos/10159690443742700 ;Sloupcový;N;N;N;N;N;Y;N;Y;N;N;N;N
+23;ODS;04.10.2021;20.02.2023;https://www.facebook.com/ods.cz/photos/10159690078427700 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+24;ODS;01.10.2021;20.02.2023;https://www.facebook.com/ods.cz/photos/10159685139682700 ;Sloupcový;N;N;N;N;N;Y;N;Y;N;N;N;N
+25;ODS;29.09.2021;20.02.2023;https://www.facebook.com/ods.cz/photos/10159682519417700 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+26;ODS;27.09.2021;20.02.2023;https://www.facebook.com/ods.cz/photos/10159678771562700 ;Sloupcový;N;N;N;N;N;Y;N;Y;N;N;N;N
+27;ODS;26.09.2021;20.02.2023;https://www.facebook.com/ods.cz/photos/10159677179207700 ;Sloupcový;N;N;N;N;N;Y;N;Y;N;N;N;N
+28;ODS;21.09.2021;20.02.2023;https://www.facebook.com/ods.cz/photos/10159669196992700 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+29;ODS;13.09.2021;20.02.2023;https://www.facebook.com/ods.cz/photos/10159655278857700 ;Sloupcový;Y;N;N;N;N;Y;N;Y;N;N;N;Y
+30;ODS;12.09.2021;20.02.2023;https://www.facebook.com/ods.cz/photos/10159654252142700 ;Sloupcový;N;N;N;N;N;Y;N;Y;N;N;N;N
+31;ODS;05.09.2021;20.02.2023;https://www.facebook.com/ods.cz/photos/10159642190172700 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+32;ODS;20.08.2021;20.02.2023;https://www.facebook.com/ods.cz/photos/10159614220212700 ;Sloupcový;N;N;N;N;N;Y;N;Y;N;N;N;N
+33;ODS;30.07.2021;20.02.2023;https://www.facebook.com/ods.cz/photos/10159573819082700 ;Sloupcový;N;N;N;N;N;Y;N;Y;N;N;N;N
+34;ODS;02.07.2021;20.02.2023;https://www.facebook.com/ods.cz/photos/10159514284387700 ;Sloupcový;Y;N;N;N;N;Y;N;Y;N;N;N;N
+35;ODS;27.06.2021;20.02.2023;https://www.facebook.com/ods.cz/photos/10159504073537700 ;Sloupcový;Y;N;N;N;N;Y;N;Y;N;N;N;N
+36;ODS;25.06.2021;20.02.2023;https://www.facebook.com/ods.cz/photos/10159500016462700 ;Sloupcový;Y;N;N;N;N;Y;N;N;N;N;Y;N
+37;ODS;21.06.2021;20.02.2023;https://www.facebook.com/ods.cz/photos/10159490494377700 ;Sloupcový;Y;N;N;N;N;Y;Y;N;N;N;N;N
+38;ODS;16.06.2021;20.02.2023;https://www.facebook.com/ods.cz/photos/10159475190767700 ;Sloupcový;Y;N;N;N;N;Y;Y;N;N;N;N;N
+39;ODS;14.06.2021;20.02.2023;https://www.facebook.com/ods.cz/photos/10159473384702700 ;Sloupcový;N;N;N;N;N;Y;N;N;Y;N;N;N
+40;ODS;08.06.2021;20.02.2023;https://www.facebook.com/ods.cz/photos/10159458131007700 ;Sloupcový;Y;N;N;N;N;Y;Y;N;N;N;N;N
+41;ODS;07.06.2021;20.02.2023;https://www.facebook.com/ods.cz/photos/10159455842497700 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+42;ODS;04.06.2021;20.02.2023;https://www.facebook.com/ods.cz/photos/10159448481727700 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+43;ODS;09.05.2021;20.02.2023;https://www.facebook.com/ods.cz/photos/10159388179617700 ;Sloupcový;Y;N;N;N;N;Y;Y;Y;N;N;N;N
+44;ODS;01.02.2021;20.02.2023;https://www.facebook.com/ods.cz/photos/10159145471637700 ;Liniový;Y;N;N;N;N;Y;Y;Y;Y;N;N;N
+45;ODS;11.01.2021;20.02.2023;https://www.facebook.com/ods.cz/photos/10159082627117700 ;Sloupcový;N;N;N;N;N;Y;N;Y;N;N;N;N
+46;ODS;21.11.2020;20.02.2023;https://www.facebook.com/ods.cz/photos/10158962125917700 ;Sloupcový;Y;N;N;N;N;Y;Y;N;N;N;N;Y
+47;ODS;07.09.2020;20.02.2023;https://www.facebook.com/ods.cz/photos/10158748616192700 ;Sloupcový;Y;N;N;N;N;Y;Y;N;N;N;N;N
+48;ODS;29.05.2020;21.02.2023;https://www.facebook.com/ods.cz/photos/10158476365552700 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;Y;N
+49;ODS;25.05.2020;21.02.2023;https://www.facebook.com/ods.cz/photos/10158464911612700 ;Koláčový;X;X;X;N;N;X;N;N;N;N;N;N
+50;ODS;24.05.2020;21.02.2023;https://www.facebook.com/ods.cz/photos/10158446370067700 ;Sloupcový;Y;N;N;N;N;Y;Y;Y;N;N;Y;Y
+51;ODS;16.05.2020;21.02.2023;https://www.facebook.com/ods.cz/photos/10158433655222700 ;Sloupcový;Y;N;N;N;N;Y;Y;N;N;N;N;N
+52;ODS;03.04.2020;21.02.2023;https://www.facebook.com/ods.cz/photos/10158278291207700 ;Liniový;N;N;N;N;N;N;Y;N;N;N;N;Y
+53;ODS;18.02.2020;21.02.2023;https://www.facebook.com/ods.cz/photos/10158126264507700 ;Sloupcový;Y;N;N;N;N;Y;N;Y;N;N;N;N
+54;ODS;11.12.2019;21.02.2023;https://www.facebook.com/ods.cz/photos/10157908229102700 ;Sloupcový;Y;N;N;N;N;Y;N;Y;N;N;N;N
+55;ODS;06.11.2019;21.02.2023;https://www.facebook.com/ods.cz/photos/10157806507497700 ;Sloupcový;Y;N;N;N;N;Y;N;N;N;N;N;N
+56;ODS;05.11.2019;21.02.2023;https://www.facebook.com/ods.cz/photos/10157803005592700;Sloupcový;Y;N;N;N;N;Y;N;Y;N;N;N;N
+57;ODS;04.11.2019;21.02.2023;https://www.facebook.com/ods.cz/photos/10157800115417700 ;Sloupcový;Y;N;N;N;N;Y;N;N;N;N;N;N
+58;ODS;14.10.2019;21.02.2023;https://www.facebook.com/ods.cz/photos/10157733014067700 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+59;ODS;30.09.2019;21.02.2023;https://www.facebook.com/ods.cz/photos/10157694377307700 ;Liniový;M;N;N;N;N;Y;N;N;Y;N;N;N
+60;ODS;22.09.2019;21.02.2023;https://www.facebook.com/ods.cz/photos/10157670619962700;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+61;ODS;21.09.2019;21.02.2023;https://www.facebook.com/ods.cz/photos/10157667449622700 ;Sloupcový;Y;N;N;N;N;Y;N;N;N;N;N;N
+62;ODS;16.09.2019;21.02.2023;https://www.facebook.com/ods.cz/photos/10157654436502700 ;Sloupcový;Y;N;N;N;N;Y;Y;N;N;N;N;N
+63;ODS;02.06.2019;21.02.2023;https://www.facebook.com/ods.cz/photos/10157384027517700 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+64;ODS;29.05.2019;21.02.2023;https://www.facebook.com/ods.cz/photos/10157373715737700 ;Sloupcový;N;N;N;N;N;Y;Y;Y;N;N;N;N
+65;ODS;28.05.2019;21.02.2023;https://www.facebook.com/ods.cz/photos/10157370758212700 ;Sloupcový;Y;N;N;N;N;Y;N;N;N;N;N;N
+66;ODS;19.04.2019;21.02.2023;https://www.facebook.com/ods.cz/photos/10157273415512700 ;Geovizualizace;X;X;X;X;N;X;N;N;N;N;N;N
+67;ODS;05.04.2019;21.02.2023;https://www.facebook.com/ods.cz/photos/10157240281487700 ;Geovizualizace;X;X;X;X;N;X;Y;N;N;N;N;N
+68;ODS;31.03.2019;21.02.2023;https://www.facebook.com/ods.cz/photos/10157228288857700 ;Sloupcový;N;N;N;N;N;Y;N;Y;N;N;N;N
+69;ODS;04.03.2019;21.02.2023;https://www.facebook.com/ods.cz/photos/10157168071367700 ;Sloupcový;N;N;N;N;N;Y;N;Y;N;N;N;N
+70;ODS;17.01.2019;21.02.2023;https://www.facebook.com/ods.cz/photos/10157057248942700 ;Sloupcový;N;N;N;N;N;N;N;N;Y;N;N;N
+71;ODS;19.12.2018;21.02.2023;https://www.facebook.com/ods.cz/photos/10156987962872700 ;Sloupcový;Y; N;N;N;N;Y;N;N;N;N;N;N
+72;ODS;03.12.2018;23.02.2023;https://www.facebook.com/ods.cz/photos/10156949077637700 ;Sloupcový;Y;N;N;N;N;Y;N;Y;N;N;N;N
+73;ODS;21.11.2018;23.02.2023;https://www.facebook.com/ods.cz/photos/10156919475577700 ;Koláčový;X;X;X;Y;Y;X;N;N;N;N;N;N
+74;ODS;12.11.2018;23.02.2023;https://www.facebook.com/ods.cz/photos/10156890663257700 ;Koláčový;X;X;X;N;N;X;N;N;N;N;N;N
+75;ODS;07.11.2018;23.02.2023;https://www.facebook.com/ods.cz/photos/10156885929482700 ;Sloupcový;Y;N;N;N;N;N;N;N;N;N;N;N
+76;ODS;05.11.2018;23.02.2023;https://www.facebook.com/ods.cz/photos/10156881454067700 ;Sloupcový;Y;N;N;N;N;Y;N;Y;N;N;N;N
+77;ODS;02.11.2018;23.02.2023;https://www.facebook.com/ods.cz/photos/10156874314452700 ;Sloupcový;N;N;N;N;N;N;Y;N;N;N;N;N
+78;ODS;04.11.2018;23.02.2023;https://www.facebook.com/ods.cz/photos/10156874080132700;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+79;ODS;01.11.2018;23.02.2023;https://www.facebook.com/ods.cz/photos/10156871913672700 ;Liniový;N;N;Y;N;N;N;N;N;N;N;Y;N
+80;ODS;22.10.2018;23.02.2023;https://www.facebook.com/ods.cz/photos/10156847008712700 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+81;ODS;11.06.2018;23.02.2023;https://www.facebook.com/ods.cz/photos/10156508361482700 ;Sloupcový;Y;N;N;N;N;Y;N;Y;N;N;N;N
+82;ODS;22.05.2018;23.02.2023;https://www.facebook.com/ods.cz/photos/10156459086902700 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+83;ODS;06.05.2018;23.02.2023;https://www.facebook.com/ods.cz/photos/10156420322682700 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+84;ODS;10.04.2018;23.02.2023;https://www.facebook.com/ods.cz/photos/10156356837302700 ;Sloupcový;Y;N;N;N;N;Y;N;Y;N;N;N;N
+85;ODS;08.04.2018;23.02.2023;https://www.facebook.com/ods.cz/photos/10156351325992700 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+86;ODS;04.03.2018;23.02.2023;https://www.facebook.com/ods.cz/photos/10156248478437700 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+87;ODS;22.12.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10156040121162700 ;Sloupcový;Y;N;N;N;N;Y;N;N;N;N;N;N
+88;ODS;14.12.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10156024044742700 ;Sloupcový;Y;N;N;N;N;Y;N;N;N;N;N;N
+89;ODS;20.11.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155953430077700 ;Koláčový;X;X;X;Y;N;X;N;N;N;N;N;N
+90;ODS;09.11.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155919764057700  ;Sloupcový;Y;N;N;N;N;Y;N;N;N;N;N;N
+91;ODS;25.10.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155876314617700 ;Sloupcový;Y;N;N;N;N;Y;Y;Y;N;N;N;N
+92;ODS;13.10.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155841773462700 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+93;ODS;12.10.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155838830402700 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+94;ODS;11.10.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155835258742700 ;Sloupcový;Y;N;N;N;N;Y;Y;N;N;N;N;N
+95;ODS;05.10.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155817815847700 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+96;ODS;04.10.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155815654587700 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+97;ODS;26.09.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155794228712700 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+98;ODS;13.09.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155759241082700 ;Sloupcový;Y;N;N;N;N;Y;N;Y;N;N;N;N
+99;ODS;23.08.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155700445317700 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;Y;N
+100;ODS;11.08.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155666613802700 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+101;ODS;27.07.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155622631402700 ;Sloupcový;Y;N;N;N;N;Y;N;N;N;N;N;N
+102;ODS;13.07.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155570480532700 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+103;ODS;12.07.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155567916877700 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+104;ODS;07.07.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155548648397700 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+105;ODS;06.07.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155441158057700 ;Sloupcový;Y;N;N;N;N;Y;N;N;N;N;N;N
+106;ODS;04.06.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155433318757700 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+107;ODS;30.05.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155417113332700 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+108;ODS;30.04.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155321429872700 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+109;ODS;28.04.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155315178622700 ;Sloupcový;N;N;N;M;N;Y;Y;N;Y;N;M;Y
+110;ODS;23.04.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155300665827700 ;Koláčový;X;X;X;N;N;X;Y;N;N;N;N;N
+111;ODS;11.04.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155254829882700 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+112;ODS;12.03.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155152289167700 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+113;ODS;24.02.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155096135722700 ;Koláčový;X;X;X;Y;N;X;Y;Y;N;N;Y;Y
+114;ODS;20.02.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155085917867700 ;Geovizualizace;X;X;X;X;N;X;N;N;N;N;N;N
+115;ODS;06.02.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155039910277700 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+116;ODS;02.02.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155028623027700 ;Koláčový;X;X;X;M;N;X;Y;N;N;N;Y;N
+117;ODS;30.01.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10155018011977700 ;Sloupcový;N;N;N;N;N;N;Y;N;N;N;N;N
+118;ODS;23.01.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10154995129782700 ;Geovizualizace;X;X;X;X;M;X;N;N;Y;N;N;Y
+119;ODS;12.01.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10154958442232700 ;Liniový;Y;N;N;N;N;N;N;N;N;N;N;N
+120;ODS;05.01.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10154936478682700 ;Geovizualizace;X;X;X;X;N;X;N;N;N;N;N;N
+121;ODS;06.01.2017;23.02.2023;https://www.facebook.com/ods.cz/photos/10154934366562700 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+122;ODS;22.12.2016;23.02.2023;https://www.facebook.com/ods.cz/photos/10154885226002700 ;Jiný;Y;N;N;N;N;N;N;N;N;N;N;N
+123;ODS;08.11.2016;23.02.2023;https://www.facebook.com/ods.cz/photos/10154737222702700 ;Sloupcový;Y;N;N;N;N;Y;Y;Y;Y;Y;N;N
+124;ODS;27.10.2016;23.02.2023;https://www.facebook.com/ods.cz/photos/10154697331357700 ;Liniový;Y;N;N;N;N;N;N;N;N;N;N;N
+125;ODS;04.10.2016;23.02.2023;https://www.facebook.com/ods.cz/photos/10154621018912700 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+126;ODS;30.09.2016;23.02.2023;https://www.facebook.com/ods.cz/photos/10154609733147700 ;Sloupcový;Y;N;N;N;N;N;N;N;N;N;N;N
+127;ODS;30.09.2016;23.02.2023;https://www.facebook.com/ods.cz/photos/10154609087992700 ;Sloupcový;Y;N;N;N;N;N;N;N;N;N;N;N
+128;ODS;25.09.2016;23.02.2023;https://www.facebook.com/ods.cz/photos/10154593838257700 ;Sloupcový;N;N;N;N;N;N;N;N;Y;N;N;N
+129;ODS;23.09.2016;23.02.2023;https://www.facebook.com/ods.cz/photos/10154587868227700 ;Liniový;Y;N;N;N;N;Y;N;N;N;N;N;N
+130;ODS;10.09.2016;23.02.2023;https://www.facebook.com/ods.cz/photos/10154543108172700 ;Koláčový;X;X;X;M;N;X;Y;Y;N;N;N;N
+131;ODS;04.09.2016;24.02.2023;https://www.facebook.com/ods.cz/photos/10154524493022700 ;Sloupcový;M;N;N;N;N;Y;Y;Y;N;N;N;Y
+132;ODS;27.08.2016;24.02.2023;https://www.facebook.com/ods.cz/photos/10154499632652700 ;Sloupcový;N;N;N;N;N;Y;Y;Y;Y;Y;N;N
+133;ODS;22.08.2016;24.02.2023;https://www.facebook.com/ods.cz/photos/10154484375727700 ;Sloupcový;N;N;N;N;N;N;Y;N;N;N;N;N
+134;ODS;16.08.2016;24.02.2023;https://www.facebook.com/ods.cz/photos/10154466968992700 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+135;ODS;16.07.2016;24.02.2023;https://www.facebook.com/ods.cz/photos/10154381883417700 ;Sloupcový;N;N;N;N;N;Y;N;Y;Y;Y;N;N
+136;ODS;29.06.2016;24.02.2023;https://www.facebook.com/ods.cz/photos/10154336330742700 ;Sloupcový;Y;N;N;N;N;N;N;N;Y;N;N;N
+137;ODS;05.06.2016;24.02.2023;https://www.facebook.com/ods.cz/photos/10154274011052700 ;Sloupcový;Y;N;N;N;N;N;N;N;Y;N;N;N
+138;ODS;17.05.2016;24.02.2023;https://www.facebook.com/ods.cz/photos/10154227498702700 ;Sloupcový;Y;N;N;N;N;Y;N;N;N;N;N;N
+139;ODS;14.04.2016;24.02.2023;https://www.facebook.com/ods.cz/photos/10154151415502700 ;Sloupcový;N;N;N;N;N;N;N;Y;N;N;N;N
+140;ODS;29.03.2016;24.02.2023;https://www.facebook.com/ods.cz/photos/10154102926302700;Liniový;Y;N;N;N;N;Y;N;N;N;N;N;N
+141;ODS;24.03.2016;24.02.2023;https://www.facebook.com/ods.cz/photos/10154081186362700 ;Sloupcový;N;N;N;N;N;N;Y;N;Y;Y;N;N
+142;ODS;18.03.2016;24.02.2023;https://www.facebook.com/ods.cz/photos/10154056946332700 ;Sloupcový;N;N;N;N;N;Y;N;Y;Y;Y;N;N
+143;ODS;16.03.2016;24.02.2023;https://www.facebook.com/ods.cz/photos/10154050277057700 ;Sloupcový;Y;N;N;N;Y;Y;N;N;N;N;N;N
+144;ODS;26.02.2016;24.02.2023;https://www.facebook.com/ods.cz/photos/10153995738082700 ;Sloupcový;N;N;N;N;N;N;N;N;Y;N;N;N
+145;ODS;25.02.2016;24.02.2023;https://www.facebook.com/ods.cz/photos/10153993487377700 ;Sloupcový;Y;N;N;N;N;Y;N;Y;N;N;N;N
+146;ODS;11.02.2016;24.02.2023;https://www.facebook.com/ods.cz/photos/10153961898272700 ;Sloupcový;N;N;N;N;N;Y;N;Y;Y;Y;N;N
+147;ODS;08.02.2016;24.02.2023;https://www.facebook.com/ods.cz/photos/10153955196177700 ;Sloupcový;M;N;N;N;N;Y;Y;N;N;N;N;N
+148;ODS;03.02.2016;24.02.2023;https://www.facebook.com/ods.cz/photos/10153943977517700 ;Koláčový;X;X;X;M;N;X;Y;N;N;N;Y;N
+149;ODS;14.01.2016;24.02.2023;https://www.facebook.com/ods.cz/photos/10153900374107700 ;Sloupcový;N;N;N;Y;N;Y;N;N;N;Y;N;N
+150;ODS;10.01.2016;24.02.2023;https://www.facebook.com/ods.cz/photos/10153891951267700 ;Liniový;N;N;N;N;N;N;N;Y;N;N;N;N
+151;ODS;17.12.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153833229037700 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+152;ODS;15.12.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153829853362700 ;Sloupcový;Y;N;N;N;N;Y;N;Y;N;N;N;N
+153;ODS;23.11.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153787057712700 ;Sloupcový;N;N;N;Y;N;Y;N;N;N;Y;N;N
+154;ODS;20.11.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153781739077700 ;Sloupcový;M;N;N;N;N;Y;N;N;N;N;N;N
+155;ODS;27.10.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153738000302700 ;Koláčový;X;X;X;Y;N;X;Y;N;N;M;N;N
+156;ODS;27.10.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153738000292700 ;Koláčový;X;X;X;N;N;X;Y;N;N;M;N;N
+157;ODS;27.10.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153738000287700 ;Sloupcový;N;N;N;N;N;N;Y;N;N;N;N;N
+158;ODS;27.10.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153738000277700 ;Koláčový;X;X;X;Y;N;X;Y;N;N;M;N;N
+159;ODS;27.10.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153738000267700 ;Koláčový;X;X;X;N;N;X;Y;N;N;M;N;N
+160;ODS;27.10.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153738000262700 ;Koláčový;X;X;X;N;N;X;Y;N;N;M;N;N
+161;ODS;27.10.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153737998967700 ;Sloupcový;N;N;N;N;N;N;Y;N;N;N;N;N
+162;ODS;27.10.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153737998962700 ;Koláčový;X;X;X;Y;N;X;Y;N;N;M;N;N
+163;ODS;27.10.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153737998922700 ;Koláčový;X;X;X;N;N;X;Y;N;N;M;N;N
+164;ODS;27.10.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153737998822700 ;Koláčový;X;X;X;N;N;X;Y;N;N;M;N;N
+165;ODS;27.10.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153737998817700 ;Koláčový;X;X;X;Y;N;X;Y;N;N;M;N;N
+166;ODS;27.10.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153737998807700 ;Koláčový;X;X;X;N;N;X;Y;N;N;M;N;N
+167;ODS;23.09.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153678567922700 ;Sloupcový;N;Y;N;N;N;Y;Y;N;N;N;N;Y
+168;ODS;20.09.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153672100862700 ;Sloupcový;N;Y;N;N;N;Y;Y;N;N;N;N;Y
+169;ODS;17.09.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153665345097700 ;Sloupcový;Y;N;N;N;N;Y;N;Y;N;N;N;N
+170;ODS;20.07.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153524434622700 ;Sloupcový;N;N;N;N;N;Y;N;Y;N;N;N;N
+171;ODS;17.07.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153517020222700 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+172;ODS;30.06.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153475785927700 ;Liniový;N;N;N;N;N;N;N;N;N;N;N;N
+173;ODS;29.06.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153472546527700 ;Sloupcový;N;N;N;Y;N;N;N;N;N;N;N;N
+174;ODS;25.06.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153462763122700 ;Sloupcový;N;N;N;Y;N;N;N;N;N;N;N;N
+175;ODS;23.06.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153458358177700 ;Sloupcový;M;N;N;N;N;Y;N;N;Y;N;N;Y
+176;ODS;22.06.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153454526057700 ;Koláčový;X;X;X;M;N;X;Y;N;N;N;Y;N
+177;ODS;22.06.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153453952772700 ;Sloupcový;N;N;N;N;N;N;N;N;N;Y;N;N
+178;ODS;21.06.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153451312742700 ;Sloupcový;Y;N;N;N;N;N;Y;N;N;N;N;N
+179;ODS;17.06.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153440767842700 ;Sloupcový;N;N;N;Y;N;N;Y;N;N;N;N;N
+180;ODS;16.06.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153438694277700 ;Sloupcový;N;N;N;Y;N;N;Y;N;N;N;N;N
+181;ODS;15.06.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153436775952700 ;Koláčový;X;X;X;N;Y;X;Y;N;N;N;N;N
+182;ODS;09.06.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153423672907700 ;Koláčový;X;X;X;Y;Y;X;Y;N;N;N;N;N
+183;ODS;08.06.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153421622177700 ;Koláčový;X;X;X;Y;Y;X;Y;N;N;N;N;N
+184;ODS;07.06.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153419705022700 ;Koláčový;X;X;X;Y;Y;X;Y;N;N;N;N;N
+185;ODS;28.05.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153381405962700 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+186;ODS;26.05.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153373312002700 ;Sloupcový;N;N;N;N;N;N;N;N;N;Y;N;N
+187;ODS;30.04.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153315318077700 ;Koláčový;X;X;X;N;Y;X;Y;N;N;N;N;N
+188;ODS;28.04.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153310689087700 ;Koláčový;X;X;X;Y;Y;X;Y;N;N;N;N;N
+189;ODS;27.04.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153308333212700 ;Koláčový;X;X;X;N;Y;X;Y;N;N;N;N;N
+190;ODS;22.04.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153294776192700 ;Sloupcový;Y;N;N;N;N;N;N;N;N;N;N;N
+191;ODS;12.04.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153267828397700 ;Sloupcový;N;N;N;N;N;N;Y;N;N;N;N;N
+192;ODS;01.04.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153238401732700 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;Y;N
+193;ODS;26.03.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153224441512700 ;Koláčový;X;X;X;Y;Y;X;N;N;N;N;N;N
+194;ODS;24.03.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153219560102700 ;Liniový;N;N;N;N;N;N;N;N;N;N;N;N
+195;ODS;18.03.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153204511932700 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+196;ODS;02.03.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153164209657700 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;Y;N
+197;ODS;17.02.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153133221692700 ;Sloupcový;Y;N;N;N;N;Y;Y;N;N;N;Y;N
+198;ODS;10.02.2015;24.02.2023;https://www.facebook.com/ods.cz/photos/10153116172707700 ;Sloupcový;Y;N;N;N;N;N;Y;N;N;N;N;N
+199;ODS;09.02.2015;25.02.2023;https://www.facebook.com/ods.cz/photos/10153114190527700 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;Y;N
+200;ODS;06.02.2015;25.02.2023;https://www.facebook.com/ods.cz/photos/10153106886747700 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+201;ODS;08.01.2015;25.02.2023;https://www.facebook.com/ods.cz/photos/10153040359637700 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;Y;N
+202;ODS;16.12.2014;25.02.2023;https://www.facebook.com/ods.cz/photos/10152953582237700 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+203;ODS;07.12.2014;25.02.2023;https://www.facebook.com/ods.cz/photos/10152933089177700 ;Koláčový;X;X;X;M;N;X;Y;N;N;N;N;N
+204;ODS;07.12.2014;25.02.2023;https://www.facebook.com/ods.cz/photos/10152933089172700 ;Liniový;Y;N;N;N;N;N;Y;N;N;N;N;N
+205;ODS;11.11.2014;25.02.2023;https://www.facebook.com/ods.cz/photos/10152874900097700 ;Sloupcový;N;N;N;N;N;N;Y;N;Y;N;N;N
+206;ODS;22.10.2014;25.02.2023;https://www.facebook.com/ods.cz/photos/10152829424747700 ;Sloupcový;N;N;N;N;N;Y;N;N;N;Y;N;N
+207;ODS;12.10.2014;25.02.2023;https://www.facebook.com/ods.cz/photos/10152804708592700 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+208;ODS;09.10.2014;25.02.2023;https://www.facebook.com/ods.cz/photos/10152795837407700 ;Sloupcový;Y;Y;N;N;N;Y;Y;Y;N;Y;Y;Y
+209;ODS;06.10.2014;25.02.2023;https://www.facebook.com/ods.cz/photos/10152786944347700 ;Liniový;Y;N;N;N;N;N;N;Y;N;N;N;N
+210;ODS;05.10.2014;25.02.2023;https://www.facebook.com/ods.cz/photos/10152783112352700 ;Sloupcový;N;N;N;N;N;N;Y;N;N;N;N;N
+211;ODS;04.10.2014;25.02.2023;https://www.facebook.com/ods.cz/photos/10152781066742700 ;Sloupcový;N;N;N;N;N;N;Y;N;N;N;N;N
+212;ODS;25.09.2014;25.02.2023;https://www.facebook.com/ods.cz/photos/10152758656512700 ;Sloupcový;Y;N;N;N;N;Y;Y;N;N;N;Y;N
+213;ODS;08.06.2014;25.02.2023;https://www.facebook.com/ods.cz/photos/10152501086647700 ;Liniový;Y;N;N;N;N;N;N;N;N;N;N;N
+214;ODS;29.05.2014;25.02.2023;https://www.facebook.com/ods.cz/photos/10152479072852700;Sloupcový;N;N;N;N;N;Y;N;N;Y;N;N;N
+215;ODS;12.05.2014;25.02.2023;https://www.facebook.com/ods.cz/photos/10152441098112700 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+216;ODS;05.05.2014;25.02.2023;https://www.facebook.com/ods.cz/photos/10152426273422700 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+217;ODS;02.05.2014;25.02.2023;https://www.facebook.com/ods.cz/photos/10152420142692700 ;Liniový;N;N;N;N;N;N;N;Y;Y;N;N;N
+218;ODS;16.04.2014;25.02.2023;https://www.facebook.com/ods.cz/photos/10152380474897700 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;Y;N
+219;ODS;25.03.2014;25.02.2023;https://www.facebook.com/ods.cz/photos/10152333540952700 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+220;ODS;21.02.2014;25.02.2023;https://www.facebook.com/ods.cz/photos/10152263348822700 ;Sloupcový;N;N;N;N;N;Y;Y;Y;N;N;N;N
+221;ODS;21.10.2013;25.02.2023;https://www.facebook.com/ods.cz/photos/10151969123072700 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+222;ODS;27.09.2013;25.02.2023;https://www.facebook.com/ods.cz/photos/10151917147052700 ;Sloupcový;N;N;N;N;N;Y;N;N;N;Y;N;N
+223;ODS;11.09.2013;25.02.2023;https://www.facebook.com/ods.cz/photos/10151882513202700 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;Y;Y
+224;ODS;23.08.2013;25.02.2023;https://www.facebook.com/ods.cz/photos/10151841870312700 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+225;ODS;24.03.2013;25.02.2023;https://www.facebook.com/ods.cz/photos/10151553418997700 ;Sloupcový;Y;N;N;N;N;N;Y;N;N;N;Y;N
+226;ODS;10.10.2012;25.02.2023;https://www.facebook.com/ods.cz/photos/10151241706722700 ;Sloupcový;Y;N;N;N;N;N;N;N;N;N;Y;N
+227;ODS;21.02.2023;23.06.2023;https://www.facebook.com/ods.cz/photos/pb.100044198901294.-2207520000./10160665216997700/?type=3;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+228;ODS;22.02.2023;23.06.2023;https://www.facebook.com/ods.cz/photos/pb.100044198901294.-2207520000./10160666402267700/?type=3;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+229;ODS;28.02.2023;23.06.2023;https://www.facebook.com/ods.cz/photos/pb.100044198901294.-2207520000./10160679024082700/?type=3;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+230;ODS;12.03.2023;23.06.2023;https://www.facebook.com/photo.php?fbid=751730086310281&set=pb.100044198901294.-2207520000.&type=3;Sloupcový;N;N;N;N;N;Y;N;Y;N;N;N;N
+231;ODS;26.05.2023;23.06.2023;https://www.facebook.com/photo.php?fbid=792538728896083&set=pb.100044198901294.-2207520000.&type=3;Liniový;Y;N;N;N;N;N;N;N;N;N;N;N
+232;ODS;10.06.2023;23.06.2023;https://www.facebook.com/photo.php?fbid=801440821339207&set=pb.100044198901294.-2207520000.&type=3;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+233;ANO;13.06.2023;19.11.2023;https://www.facebook.com/photo.php?fbid=639085291578544&set=pb.100064312374919.-2207520000&type=3 ;Sloupcový;N;N;N;N;N;N;Y;N;N;N;N;N
+234;ANO;12.06.2023;19.11.2023;https://www.facebook.com/photo.php?fbid=638474381639635&set=pb.100064312374919.-2207520000&type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+235;ANO;15.05.2023;19.11.2023;https://www.facebook.com/photo.php?fbid=620423486778058&set=pb.100064312374919.-2207520000&type=3 ;Sloupcový;N;N;N;N;Y;N;N;N;Y;N;N;N
+236;ANO;17.04.2023;19.11.2023;https://www.facebook.com/photo.php?fbid=602982705188803&set=pb.100064312374919.-2207520000&type=3 ;Sloupcový;N;N;N;N;Y;N;N;N;Y;N;N;N
+237;ANO;21.03.2023;19.11.2023;https://www.facebook.com/photo.php?fbid=587580526729021&set=pb.100064312374919.-2207520000&type=3 ;Liniový;Y;N;N;N;N;N;Y;N;N;N;N;N
+238;ANO;14.03.2023;19.11.2023;https://www.facebook.com/photo.php?fbid=583520210468386&set=pb.100064312374919.-2207520000&type=3 ;Sloupcový;N;N;N;N;Y;Y;Y;N;N;N;N;N
+239;ANO;14.02.2023;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/8586484438088380/?type=3 ;Sloupcový;N;N;N;N;N;N;Y;N;N;N;Y;N
+240;ANO;17.01.2023;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/8440184332718392/?type=3 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;Y;N
+241;ANO;14.01.2023;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/8425969177473241/?type=3 ;Geovizualizace;X;X;X;X;N;X;Y;Y;N;N;N;N
+242;ANO;04.01.2023;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/8376199535783539/?type=3 ;Sloupcový;N;N;N;N;N;N;N;N;Y;N;N;N
+243;ANO;11.12.2022;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/8254453421291485/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;Y;N;Y
+244;ANO;12.09.2022;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/7820647951338703/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+245;ANO;12.08.2022;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/7675816675821832/?type=3 ;Sloupcový;N;N;N;N;Y;Y;Y;N;N;N;N;N
+246;ANO;12.08.2022;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/7676565295746970/?type=3 ;Liniový;Y;N;N;N;N;N;N;Y;N;N;N;N
+247;ANO;21.08.2022;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/7720838464652986/?type=3 ;Sloupcový;N;N;N;N;Y;Y;Y;Y;N;N;N;N
+248;ANO;19.07.2022;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/7568589959877838/?type=3 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+249;ANO;16.02.2022;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/6851510158252492/?type=3 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+250;ANO;18.01.2022;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/6671031279633715/?type=3 ;Sloupcový;N;N;N;N;N;N;Y;N;N;N;Y;N
+251;ANO;20.12.2021;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/6460868470649998/?type=3 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+252;ANO;17.12.2021;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/6457167027686809/?type=3 ;Sloupcový;N;N;N;N;N;N;Y;N;Y;N;Y;N
+253;ANO;13.12.2021;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/6428206713916174/?type=3 ;Sloupcový;N;N;N;N;N;N;Y;N;Y;N;Y;N
+254;ANO;24.11.2021;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/6322778454459001/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+255;ANO;10.05.2018;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/1864915470245344/?type=3 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+256;ANO;11.09.2017;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/1559818517421709/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+257;ANO;26.02.2017;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/1325586797511550/?type=3 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+258;ANO;07.05.2016;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/1012578735479026/?type=3 ;Sloupcový;N;N;N;N;Y;N;Y;N;N;Y;N;N
+259;ANO;06.01.2016;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/934156569987910/?type=3 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+260;ANO;06.12.2015;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/917856184951282/?type=3 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+261;ANO;05.05.2015;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/816606335076268/?type=3 ;Sloupcový;N;N;N;N;N;N;Y;N;N;N;Y;N
+262;ANO;16.01.2015;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/762593453810890/?type=3 ;Sloupcový;N;N;N;N;N;N;Y;Y;N;Y;Y;N
+263;ANO;23.11.2014;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/731695276900708/?type=3 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;Y
+264;ANO;23.10.2014;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/715651655171737/?type=3 ;Sloupcový;N;N;N;N;N;N;N;N;N;Y;N;N
+265;ANO;21.10.2014;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/714704345266468/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;Y;N;N
+266;ANO;04.07.2013;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/518885958181642/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+267;ANO;09.09.2013;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/521459921257579/?type=3 ;Sloupcový;N;N;N;N;N;N;N;N;N;Y;N;N
+268;ANO;10.09.2013;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/521752644561640/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;Y;N;N
+269;ANO;24.09.2013;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/527849740618597/?type=3 ;Sloupcový;N;N;N;N;N;N;Y;N;N;Y;N;N
+270;ANO;06.10.2013;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/532723100131261/?type=3 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+271;ANO;17.10.2013;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/539275086142729/?type=3 ;Sloupcový;N;N;N;N;N;N;Y;N;N;N;N;N
+272;ANO;19.10.2013;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/540663322670572/?type=3 ;Sloupcový;N;N;N;N;N;N;Y;Y;Y;N;N;N
+273;ANO;20.10.2013;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/541203659283205/?type=3 ;Sloupcový;N;N;N;N;N;N;Y;N;N;N;N;N
+274;ANO;28.10.2013;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/545304415539796/?type=3 ;Sloupcový;N;N;N;M;N;N;Y;N;N;N;Y;Y
+275;ANO;17.12.2013;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/569064759830428/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;Y;N;N
+276;ANO;11.01.2014;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/579627775440793/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;Y;N;N
+277;ANO;07.02.2014;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/591912680878969/?type=3 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+278;ANO;10.03.2014;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/605802692823301/?type=3 ;Sloupcový;N;N;N;N;N;N;N;N;N;M;N;N
+279;ANO;19.03.2014;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/609901732413397/?type=3 ;Sloupcový;N;N;N;N;N;N;Y;N;N;Y;N;N
+280;ANO;20.03.2014;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/610282282375342/?type=3 ;Sloupcový;M;N;N;N;N;N;N;N;N;M;N;N
+281;ANO;24.03.2014;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/612090075527896/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;Y
+282;ANO;26.03.2014;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/613476858722551/?type=3 ;Sloupcový;N;N;N;N;N;N;Y;N;N;N;N;N
+283;ANO;28.03.2014;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/614400431963527/?type=3 ;Sloupcový;N;N;N;N;N;Y;Y;Y;N;N;N;N
+284;ANO;02.04.2014;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/616747311728839/?type=3 ;Sloupcový;N;N;N;N;N;N;N;N;N;M;N;N
+285;ANO;06.04.2014;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/618935488176688/?type=3 ;Sloupcový;N;N;N;N;N;N;Y;N;N;N;N;N
+286;ANO;10.04.2014;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/620815597988677/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;Y;N;N
+287;ANO;17.04.2014;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/624304350973135/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;Y;N;N
+288;ANO;22.04.2014;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/626756257394611/?type=3 ;Sloupcový;N;N;N;N;N;N;Y;N;N;N;N;N
+289;ANO;23.04.2014;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/627354560668114/?type=3 ;Sloupcový;N;N;N;N;N;N;Y;Y;N;Y;N;N
+290;ANO;28.04.2014;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/629756490427921/?type=3 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+291;ANO;02.05.2014;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/631489916921245/?type=3 ;Sloupcový;N;N;N;Y;N;Y;N;N;N;N;N;N
+292;ANO;04.05.2014;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/632411013495802/?type=3 ;Sloupcový;N;N;N;N;N;Y;Y;Y;N;N;N;N
+293;ANO;06.05.2014;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/633308636739373/?type=3 ;Jiný;N;N;N;N;N;N;Y;N;N;N;M;M
+294;ANO;06.05.2014;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/633315973405306/?type=3 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;M;M;M
+295;ANO;19.05.2014;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/639798422757061/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+296;ANO;20.05.2014;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/640182489385321/?type=3 ;Sloupcový;M;N;N;N;N;N;N;N;N;M;N;N
+297;ANO;26.05.2014;19.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/643363215733915/?type=3 ;Sloupcový;N;N;N;N;N;N;Y;N;N;Y;N;N
+298;ANO;04.06.2014;20.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/647563205313916/?type=3 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+299;ANO;21.06.2014;20.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/670539749682928/?type=3 ;Sloupcový;M;N;N;N;N;N;N;N;N;M;N;N
+300;ANO;23.07.2014;20.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/671571306246439/?type=3 ;Sloupcový;N;N;N;N;N;N;Y;N;N;Y;Y;N
+301;ANO;07.08.2014;20.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/678735148863388/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;Y;N;N
+302;ANO;12.09.2014;20.11.2023;https://www.facebook.com/anobudelip/photos/pb.100064312374919.-2207520000/695204980549738/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;Y;N;N
+303;SPD;21.08.2015;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/1007528662611312/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;Y;N;Y;N;N
+304;SPD;17.08.2016;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/1281115475252628/?type=3 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+305;SPD;08.11.2016;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/1303073423056833/?type=3;Liniový;Y;N;N;N;N;N;N;N;N;N;N;N
+306;SPD;16.02.2017;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/1419778468052994/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;M;N;N
+307;SPD;14.06.2017;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/1542404749123698/?type=3 ;Sloupcový;M;N;N;N;N;N;N;N;N;N;N;N
+308;SPD;14.06.2017;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/1542517122445794/?type=3 ;Sloupcový;M;N;N;N;N;N;N;N;N;N;N;N
+309;SPD;09.06.2019;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/2444472632250234/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+310;SPD;12.06.2020;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/3241597045871118/?type=3 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+311;SPD;18.04.2021;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/4122523164445164/?type=3 ;Sloupcový;M;N;N;N;N;Y;N;N;Y;N ;N;M
+312;SPD;12.09.2021;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/4553457548018388/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;Y;N;Y
+313;SPD;26.09.2021;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/4599257750105034/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+314;SPD;21.08.2022;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/5617460468284752/?type=3 ;Sloupcový;N;N;N;N;N;N;Y;N;Y;N;N;N
+315;SPD;11.09.2022;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/5676133712417427/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+316;SPD;11.09.2022;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/5676562272374571/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+317;SPD;13.09.2022;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/5681866795177452/?type=3 ;Liniový;X;X;X;X;X;X;X;X;X;X;X;X
+318;SPD;18.09.2022;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/5695279383836193/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+319;SPD;18.09.2022;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/5696453367052128/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+320;SPD;22.09.2022;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/5707032855994179/?type=3 ;Liniový;X;X;X;X;X;X;X;X;X;X;X;X
+321;SPD;09.10.2022;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/5758496740847790/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+322;SPD;11.10.2022;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/5765062160191248/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+323;SPD;12.10.2022;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/5767713253259472/?type=3 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+324;SPD;08.11.2022;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/5848142925216504/?type=3 ;Liniový;X;X;X;X;X;X;X;X;X;X;X;X
+325;SPD;15.12.2022;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/5868363896527740/?type=3;Sloupcový;N;N;N;N;N;Y;Y;Y;N;N;N;N
+326;SPD;11.12.2022;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/5950768014953994/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+327;SPD;31.12.2022;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/6013161088714686/?type=3 ;Geovizualizace;X;X;X;X;N;X;N;N;N;N;N;N
+328;SPD;04.02.2023;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/6121337914563669/?type=3 ;Sloupcový;N;N;N;N;N;Y;Y;Y;Y;N;N;Y
+329;SPD;05.05.2023;25.11.2023;https://www.facebook.com/photo.php?fbid=804870584330104&set=pb.100044215100797.-2207520000&type=3 ;Koláčový;X;X;X;N;N;X;N;M;N;N;N;Y
+330;SPD;06.06.2023;25.11.2023;https://www.facebook.com/photo.php?fbid=822255999258229&set=pb.100044215100797.-2207520000&type=3 ;Sloupcový;M;N;N;N;N;N;N;N;N;N;N;N
+331;SPD;15.06.2023;25.11.2023;https://www.facebook.com/photo.php?fbid=827178498765979&set=pb.100044215100797.-2207520000&type=3 ;Sloupcový;N;N;N;N;Y;Y;Y;N;N;N;M;Y
+332;SPD;05.01.2023;25.11.2023;https://www.facebook.com/hnutispd/photos/pb.100044215100797.-2207520000/6028373483860113/?type=3 ;Sloupcový;M;N;N;N;N;Y;N;N;N;N;N;N
+333;STAN;21.12.2011;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10150538667884328/?type=3 ;Sloupcový;N;N;N;N;N;N;Y;N;N;Y;N;N
+334;STAN;26.01.2012;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10150619011324328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+335;STAN;21.10.2014;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10152811187169328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;Y;N;N
+336;STAN;22.12.2016;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10154797916014328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+337;STAN;26.01.2017;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10154919329544328/?type=3 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+338;STAN;06.02.2017;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10154952035139328/?type=3 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+339;STAN;06.03.2017;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10155034382634328/?type=3 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+340;STAN;10.03.2017;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10155050718499328/?type=3 ;Sloupcový;N;N;N;N;N;N;Y;Y;N;N;N;N
+341;STAN;10.04.2017;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10155150788224328/?type=3 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+342;STAN;05.09.2017;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10155631234409328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;Y;N;N;N
+343;STAN;11.09.2017;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10155647756254328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+344;STAN;12.09.2017;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10155650419169328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+345;STAN;09.10.2017;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10155726380129328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+346;STAN;13.10.2017;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10155737144464328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+347;STAN;02.09.2018;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10156614373299328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+348;STAN;30.09.2018;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10156681017314328/?type=3 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+349;STAN;04.11.2018;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10156763644644328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+350;STAN;06.12.2018;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10156835648889328/?type=3 ;Sloupcový;N;N;N;N;N;N;Y;N;Y;N;N;N
+351;STAN;11.12.2018;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10156847762019328/?type=3 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+352;STAN;22.02.2019;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10157015763694328/?type=3 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+353;STAN;10.04.2019;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10157120637374328/?type=3 ;Sloupcový;N;N;N;N;N;N;Y;N;N;N;N;N
+354;STAN;05.05.2019;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10157181595619328/?type=3 ;Sloupcový;N;N;N;N;M;N;N;N;N;N;N;N
+355;STAN;07.05.2019;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10157186176369328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;Y
+356;STAN;09.05.2019;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10157190602589328/?type=3 ;Sloupcový;N;N;N;Y;N;N;N;N;N;N;N;N
+357;STAN;12.05.2019;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10157198076934328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+358;STAN;18.05.2019;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10157212016439328/?type=3 ;Sloupcový;M;N;N;N;N;Y;N;N;N;N;Y;Y
+359;STAN;09.06.2019;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10157267847694328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+360;STAN;30.06.2019;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10157320224949328/?type=3 ;Sloupcový;N;N;N;N;N;Y;Y;Y;N;N;N;N
+361;STAN;29.07.2019;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10157393814814328/?type=3 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+362;STAN;29.10.2019;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10157641927489328/?type=3 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+363;STAN;30.10.2019;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10157644912239328/?type=3 ;Sloupcový;Y;N;N;N;N;N;Y;N;N;N;Y;N
+364;STAN;08.12.2019;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10157764542469328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+365;STAN;10.12.2019;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10157770620854328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+366;STAN;18.02.2020;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10157986479859328/?type=3 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+367;STAN;08.03.2020;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10158044493729328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+368;STAN;29.04.2020;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10158255314764328/?type=3 ;Geovizualizace;X;X;X;X;N;X;N;N;Y;N;N;N
+369;STAN;13.07.2020;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10158518313184328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+370;STAN;20.09.2020;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10158716431354328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+371;STAN;22.09.2020;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10158722523634328/?type=3 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+372;STAN;10.10.2020;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10158769703474328/?type=3 ;Sloupcový;N;N;N;N;N;Y;Y;Y;N;N;N;N
+373;STAN;18.10.2020;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10158790011329328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+374;STAN;06.11.2020;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10158837426589328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+375;STAN;15.11.2020;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10158859465299328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+376;STAN;03.12.2020;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10158902292519328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+377;STAN;13.12.2020;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10158930279239328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+378;STAN;02.02.2021;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10159073801564328/?type=3 ;Sloupcový;N;N;N;N;Y;Y;N;N;N;N;N;N
+379;STAN;14.02.2021;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10159107829184328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+380;STAN;04.03.2021;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10159153607529328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+381;STAN;06.03.2021;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10159155721029328/?type=3 ;Koláčový;X;X;X;N;N;X;N;N;N;M;N;N
+382;STAN;14.03.2021;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10159178274789328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+383;STAN;30.03.2021;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10159217828004328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+384;STAN;11.04.2021;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10159247489609328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+385;STAN;23.04.2021;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10159276918014328/?type=3 ;Sloupcový;N;N;N;N;Y;N;N;N;N;N;N;N
+386;STAN;09.05.2021;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10159316349979328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+387;STAN;26.05.2021;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10159359722129328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+388;STAN;06.06.2021;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10159386758154328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+389;STAN;23.06.2021;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10159429084269328/?type=3;Liniový;N;N;N;N;N;N;Y;N;N;N;N;N
+390;STAN;15.07.2021;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10159475349904328/?type=3 ;Sloupcový;Y;N;N;N;N;N;M;N;Y;N;N;N
+391;STAN;10.09.2021;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10159586279954328/?type=3 ;Liniový;Y;N;N;N;N;Y;N;N;N;N;N;N
+392;STAN;28.11.2021;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10159738507509328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+393;STAN;29.01.2022;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10159851879539328/?type=3 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+394;STAN;17.02.2022;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10159888699204328/?type=3 ;Koláčový;X;X;X;M;M;X;Y;N;N;M;N;N
+395;STAN;13.03.2022;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10159931443069328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+396;STAN;16.03.2022;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10159936690624328/?type=3 ;Liniový;Y;N;N;N;N;N;N ;N;Y;N;N;N
+397;STAN;17.03.2022;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10159939074404328/?type=3 ;Liniový;Y;N;N;N;N;N;Y;N;N;N;N;N
+398;STAN;11.04.2022;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10159981361924328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+399;STAN;02.05.2022;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10160018708144328/?type=3 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+400;STAN;09.05.2022;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10160031333464328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+401;STAN;18.05.2022;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10160050018899328/?type=3 ;Sloupcový;N;N;N;N;N;N;Y;N;N;N;N;N
+402;STAN;26.05.2022;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10160064074864328/?type=3 ;Sloupcový;N;N;N;N;N;N;Y;N;N;N;N;N
+403;STAN;09.06.2022;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10160091111434328/?type=3 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+404;STAN;17.08.2022;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10160203093404328/?type=3 ;Sloupcový;N;N;N;N;N;N;N;N;N;N;M;N
+405;STAN;30.08.2022;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10160224216444328/?type=3 ;Liniový;N;N;N;N;N;N;N;N;N;N;N;N
+406;STAN;12.09.2022;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10160252390839328/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+407;STAN;16.09.2022;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10160258651079328/?type=3 ;Sloupcový;N;N;N;N;N;Y;Y;N;Y;N;N;M
+408;STAN;16.09.2022;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10160258730399328/?type=3 ;Sloupcový;N;N;N;N;N;Y;Y;N;Y;N;N;M
+409;STAN;26.09.2022;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10160276033359328/?type=3 ;Geovizualizace;X;X;X;X;M;X;N;N;Y;N;N;N
+410;STAN;29.09.2022;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10160280515664328/?type=3 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+411;STAN;04.10.2022;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10160289050844328/?type=3 ;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+412;STAN;09.10.2022;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10160298069209328/?type=3;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+413;STAN;12.10.2022;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10160303526849328/?type=3;Sloupcový;N;N;N;N;N;X;N;N;N;N;N;N
+414;STAN;02.12.2022;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10160507735189328/?type=3 ;Liniový;Y;N;N;N;N;Y;Y;N;N;N;N;N
+415;STAN;31.01.2023;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10160638867484328/?type=3;Koláčový;X;X;X;N;N;X;N;N;N;N;N;N
+416;STAN;09.02.2023;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10160656397254328/?type=3;Liniový;N;N;N;N;N;N;N;N;Y;N;N;N
+417;STAN;24.02.2023;26.11.2023;https://www.facebook.com/starostove/photos/pb.100064804358132.-2207520000/10160687905169328/?type=3;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+418;STAN;12.03.2023;26.11.2023;https://www.facebook.com/photo.php?fbid=612923804211093&set=pb.100064804358132.-2207520000&type=3;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+419;STAN;14.04.2023;26.11.2023;https://www.facebook.com/photo.php?fbid=633480922155381&set=pb.100064804358132.-2207520000&type=3;Sloupcový;N;N;N;N;N;N;N;Y;N;N;N;N
+420;STAN;27.04.2023;26.11.2023;https://www.facebook.com/photo.php?fbid=641491751354298&set=pb.100064804358132.-2207520000&type=3;Sloupcový;N;N;N;N;N;N;N;N;Y;N;N;N
+421;STAN;03.05.2023;26.11.2023;https://www.facebook.com/photo.php?fbid=645349847635155&set=pb.100064804358132.-2207520000&type=3;Geovizualizace;X;X;X;X;N;X;N;N;Y;N;N;N
+422;STAN;23.05.2023;26.11.2023;https://www.facebook.com/photo.php?fbid=658015473035259&set=pb.100064804358132.-2207520000&type=3;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+423;STAN;29.05.2023;26.11.2023;https://www.facebook.com/photo.php?fbid=661855272651279&set=pb.100064804358132.-2207520000&type=3;Liniový;Y;N;N;N;N;Y;N;N;N;N;N;N
+424;Piráti;16.01.2012;26.11.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10150486003859039/?type=3;Liniový;N;N;N;N;N;N;Y;Y;Y;N;N;N
+425;Piráti;02.10.2012;26.11.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10151188604454039/?type=3 ;Sloupcový;N;N;N;N;N;N;M;Y;N;N;N;N
+426;Piráti;02.12.2012;26.11.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10151270730099039/?type=3;Liniový;N;N;N;N;N;N;Y;Y;N;N;N;N
+427;Piráti;13.07.2013;26.11.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10151657772949039/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;Y;N;N
+428;Piráti;26.08.2013;26.11.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10151752334559039/?type=3;Sloupcový;N;N;N;N;N;Y;N;Y;M;N;N;N
+429;Piráti;03.10.2013;26.11.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10151827270844039/?type=3;Sloupcový;N;N;N;N;N;N;Y;N;N;N;N;N
+430;Piráti;04.10.2013;26.11.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10151828284814039/?type=3;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+431;Piráti;15.10.2013;26.11.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10151849774844039/?type=3;Sloupcový;N;N;N;N;N;N;Y;N;N;N;N;N
+432;Piráti;17.10.2013;26.11.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10151853587524039/?type=3;Sloupcový;N;N;N;N;N;N;Y;N;N;N;N;N
+433;Piráti;18.10.2013;26.11.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10151856355139039/?type=3;Sloupcový;N;N;N;N;N;Y;N;M;Y;N;N;N
+434;Piráti;25.10.2013;26.11.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10151870860399039/?type=3;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+435;Piráti;26.10.2013;26.11.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10151872146354039/?type=3;Liniový;N;N;N;N;N;N;Y;N;N;N;N;N
+436;Piráti;28.10.2013;26.11.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10151877575494039/?type=3;Sloupcový;N;N;N;N;N;N;Y;N;N;N;N;N
+437;Piráti;13.12.2013;26.11.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10151986236349039/?type=3;Koláčový;X;X;X;Y;N;X;Y;N;N;N;Y;Y
+438;Piráti;22.01.2014;26.11.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10152064831734039/?type=3;Sloupcový;N;Y;N;N;N;Y;Y;N;N;N;Y;Y
+439;Piráti;05.04.2014;26.11.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10152204006579039/?type=3;Sloupcový;N;N;N;N;N;N;N;N;N;Y;N;N
+440;Piráti;16.05.2014;26.11.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10152286287279039/?type=3;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;M
+441;Piráti;12.10.2014;26.11.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10152624156839039/?type=3;Sloupcový;N;N;N;N;N;N;Y;N;N;N;N;N
+442;Piráti;25.09.2016;26.11.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10154179107184039/?type=3;Geovizualizace;X;X;X;X;N;X;N;N;N;N;N;M
+443;Piráti;31.10.2016;26.11.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10154286101734039/?type=3;Jiný;N;N;N;N;N;N;N;N;N;N;Y;M
+444;Piráti;06.02.2017;26.11.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10154579635374039/?type=3;Sloupcový;N;N;N;N;N;N;N;N;Y;N;N;N
+445;Piráti;10.09.2017;26.11.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10155204117779039/?type=3 ;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+446;Piráti;19.09.2017;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10155225895149039/?type=3;Sloupcový;M;Y;N;N;N;Y;Y;M;M;Y;N;Y
+447;Piráti;21.09.2017;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10155231545874039/?type=3;Sloupcový;N;N;N;N;N;N;Y;Y;Y;N;N;N
+448;Piráti;10.10.2017;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10155279216559039/?type=3;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+449;Piráti;13.10.2017;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10155286460614039/?type=3;Liniový;Y;N;N;N;N;N;N;N;N;N;N;N
+450;Piráti;21.10.2017;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10155307418624039/?type=3;Sloupcový;N;N;N;N;N;Y;Y;Y;N;N;N;N
+451;Piráti;26.03.2018;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10155700582759039/?type=3;Sloupcový;N;N;N;N;Y;Y;N;N;N;N;N;N
+452;Piráti;05.04.2018;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10155727315184039/?type=3;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+453;Piráti;16.04.2018;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10155751361564039/?type=3;Jiný;N;N;N;X;N;N;N;N;N;N;M;M
+454;Piráti;06.05.2018;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10155794517874039/?type=3;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+455;Piráti;15.05.2018;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10155813959389039/?type=3;Sloupcový;N;N;N;Y;N;Y;Y;N;N;N;N;N
+456;Piráti;11.06.2018;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10155869863139039/?type=3;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+457;Piráti;15.06.2018;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10155874424039039/?type=3;Geovizualizace;X;X;X;X;N;X;Y;N;N;N;N;N
+458;Piráti;26.11.2018;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10156230406689039/?type=3;Liniový;N;N;N;N;N;N;N;N;N;N;N;N
+459;Piráti;25.01.2019;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10156353090859039/?type=3;Sloupcový;N;N;N;N;N;N;N;N;N;M;N;N
+460;Piráti;21.02.2019;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10156406198164039/?type=3;Geovizualizace;X;X;X;X;N;X;N;N;N;N;N;N
+461;Piráti;14.04.2019;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10156512627714039/?type=3;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+462;Piráti;09.05.2019;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10156567031089039/?type=3;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+463;Piráti;16.05.2019;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10156581506929039/?type=3;Koláčový;X;X;X;N;N;X;M;N;N;N;M;M
+464;Piráti;19.05.2019;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10156588888159039/?type=3;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+465;Piráti;28.05.2019;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10156609244494039/?type=3;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+466;Piráti;10.06.2019;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10156639076509039/?type=3;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+467;Piráti;01.07.2019;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10156686207444039/?type=3;Sloupcový;Y;N;N;N;N;Y;N;N;N;N;N;N
+468;Piráti;20.11.2019;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10157027370559039/?type=3;Liniový;Y;N;N;N;N;N;Y;N;N;N;N;N
+469;Piráti;15.06.2020;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10157650871844039/?type=3;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+470;Piráti;14.07.2020;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10157733817069039/?type=3;Sloupcový;M;N;N;N;N;Y;Y;N;N;N;N;N
+471;Piráti;04.10.2020;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10157923491579039/?type=3;Geovizualizace;X;X;X;X;M;X;Y;N;Y;N;N;M
+472;Piráti;18.10.2020;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10157957619589039/?type=3;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+473;Piráti;22.10.2020;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10157966645239039/?type=3;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+474;Piráti;10.12.2020;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10158073739524039/?type=3;Jiný;N;N;N;N;N;N;N;N;N;N;Y;Y
+475;Piráti;19.01.2021;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10158201929924039/?type=3;Sloupcový;M;N;N;N;N;Y;Y;Y;N;N;N;N
+476;Piráti;14.02.2021;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10158234247929039/?type=3;Sloupcový;M;N;N;N;N;Y;N;Y;Y;N;N;N
+477;Piráti;14.03.2021;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10158299655834039/?type=3;Sloupcový;N;N;N;N;N;Y;N;N;N;N;N;N
+478;Piráti;30.03.2021;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10158337366574039/?type=3;Sloupcový;N;N;N;N;N;N;N;N;N;N;N;N
+479;Piráti;23.06.2021;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10158534150074039/?type=3;Liniový;N;N;N;N;N;N;Y;N;N;N;N;N
+480;Piráti;15.07.2021;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10158576115414039/?type=3;Sloupcový;N;N;N;N;N;N;M;N;N;N;N;N
+481;Piráti;06.09.2021;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10158676118244039/?type=3;Sloupcový;Y;N;N;N;N;Y;Y;N;N;N;N;N
+482;Piráti;10.09.2021;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10158682271999039/?type=3;Liniový;Y;N;N;N;N;Y;N;N;N;N;N;N
+483;Piráti;08.02.2022;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10158935740619039/?type=3;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;Y;N
+484;Piráti;25.08.2022;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10159243515239039/?type=3;Sloupcový;Y;N;N;N;N;N;Y;N;N;N;N;N
+485;Piráti;07.09.2022;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10159264605259039/?type=3;Sloupcový;Y;N;N;N;N;Y;N;N;N;N;N;N
+486;Piráti;19.09.2022;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10159287015644039/?type=3;Sloupcový;N;N;N;N;N;N;N;N;Y;N;N;Y
+487;Piráti;20.09.2022;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10159289328164039/?type=3;Sloupcový;Y;N;N;N;N;Y;Y;N;N;N;N;N
+488;Piráti;22.02.2023;09.12.2023;https://www.facebook.com/ceska.piratska.strana/photos/pb.100044405350251.-2207520000/10159643247619039/?type=3;Sloupcový;N;N;N;N;N;Y;Y;N;N;N;N;N
+489;Piráti;05.05.2023;09.12.2023;https://www.facebook.com/photo.php?fbid=820534892770015&set=pb.100044405350251.-2207520000&type=3;Sloupcový;N;N;N;N;N;N;Y;N;M;N;N;N
